@@ -102,4 +102,7 @@ public String addToCart(@PathVariable int id, HttpSession session) {
         }
         return "checkout";
     }
+
+   
+
 }
